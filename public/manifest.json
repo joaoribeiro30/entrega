@@ -1,0 +1,35 @@
+{
+  "id": "/",
+  "name": "Estação do Entregador",
+  "short_name": "Entregador",
+  "description": "Estação de trabalho mobile-first para entregadores ciclistas com mapa de demanda, rastreamento GPS em tempo real, rotas de bike e controle financeiro.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0F17",
+  "theme_color": "#0B0F17",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["navigation", "productivity", "finance", "utilities"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

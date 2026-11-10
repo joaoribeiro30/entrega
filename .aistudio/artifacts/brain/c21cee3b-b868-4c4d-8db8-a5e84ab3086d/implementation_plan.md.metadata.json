@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação completo para a Estação do Entregador (Edição Bike Courier), incluindo arquitetura Google Maps Platform moderna, rastreamento GPS real, cálculo de lucro líquido com custo por km, heatmap de demanda, replay de rotas, metas com alertas sonoros e gestão financeira.",
+  "updatedAt":  "2026-11-09T23:13:03.033992545Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

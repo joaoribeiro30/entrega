@@ -1,0 +1,6 @@
+{
+  "name": "Estação do Entregador",
+  "description": "Estação de trabalho mobile-first para entregadores ciclistas com mapa de demanda, rastreamento GPS em tempo real, calculadora de rotas de bike e controle financeiro com lucro líquido.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
